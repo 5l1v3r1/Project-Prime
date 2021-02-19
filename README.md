@@ -11,16 +11,16 @@ Prime Discord Bot
 # Commands
 - mcserver:
   - description: Gives information about a minecraft server
-  - ⚡usage: !mcserver hypixel.net
+  - usage: !mcserver hypixel.net
 
 - mcuser:
   - description: Gives information about a minecraft account
-  - ⚡usage: !mcuser Notch
+  - usage: !mcuser Notch
   
 - ipinfo:
   - description: Gives information about a ip address
-  - ⚡usage: !ipinfo 1.1.1.1
+  - usage: !ipinfo 1.1.1.1
     
 - base64:
   - description: Encode and Decode data with base64
-  - ⚡usage: !base64 type(encode or decode) message
+  - usage: !base64 type(encode or decode) message
