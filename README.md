@@ -1,5 +1,5 @@
 # Project-Prime
-Prime Discord Bot
+Prime Discord Bot, more commands coming soon.
 
 
 # Requirements
