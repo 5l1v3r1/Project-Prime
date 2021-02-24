@@ -6,7 +6,7 @@ from discord.ext import commands
 
 # Variables enterprise
 prefix = "!"
-token = "ODA4MDUxMTg4Njk5NjI3NTcx.YCA6UA.9z3pQWfQhLz4PfJLokct6Ql7RGQ"
+token = "bot token here mate"
 embedColor = discord.Colour.gold()
 
 # Bot enterprise
